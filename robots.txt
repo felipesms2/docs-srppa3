@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-mze1lq.goib138.site/sitemap.xml
